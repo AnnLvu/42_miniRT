@@ -83,7 +83,7 @@ A minimalistic scene featuring a snowman with basic geometric shapes, illuminate
 ### 🏛️ Complex Scene 1  
 Scene showcasing a shiny metallic sphere placed at the center of a hall surrounded by towering columns, with elegant lighting creating shadows.
 
-![Complex Scene 1](images/complex_scene_1.png.png)  
+![Complex Scene 1](images/complex_scene_1.png)  
 
 ### 🌌 Complex Scene 2  
 Magical scene with grand, ornate columns resembling those from Aladdin's enchanted palace, bathed in warm light and shadow, creating an otherworldly, mystical atmosphere.  
