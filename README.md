@@ -65,23 +65,28 @@ This scene demonstrates how a single light source interacts with a sphere.
 
 ![Sphere with Light](images/sphere_with_light.png)  
 
-### 🌀 Cylinder Scene  
-This scene shows a cylinder with proper lighting and shadow rendering.  
+### 📦 Sphere in the box 
+A sphere inside a box, with light casting shadows and highlights, creating a dynamic interplay of light and form. 
 
-![Cylinder Scene](images/cylinder_scene.png)  
+![Sphere in the box](images/sphere_in_the_box.png)  
 
-### 🌄 Plane and Sphere  
-A minimalistic scene featuring a plane and a sphere with ambient lighting.  
+### 🌀 Dual Spheres and Cylinder  
+This scene features two spheres and a cylinder, with realistic lighting and shadow effects. 
 
-![Plane and Sphere](images/plane_and_sphere.png)  
+![Dual Spheres and Cylinder](images/cylinder_scene.png)  
 
-### 🔥 Complex Scene 1  
-A detailed scene with multiple objects, showcasing translation and rotation.  
+### ⛄️ Complex Scene 0  
+A minimalistic scene featuring a snowman with basic geometric shapes, illuminated by soft lighting.  
 
-![Complex Scene 1](images/complex_scene_1.png)  
+![Complex Scene 0 ](images/complex_scene_0.png)  
+
+### 🏛️ Complex Scene 1  
+Scene showcasing a shiny metallic sphere placed at the center of a hall surrounded by towering columns, with elegant lighting creating shadows.
+
+![Complex Scene 1](images/complex_scene_1.png.png)  
 
 ### 🌌 Complex Scene 2  
-A full-fledged scene with cylinders, planes, and advanced lighting effects.  
+Magical scene with grand, ornate columns resembling those from Aladdin's enchanted palace, bathed in warm light and shadow, creating an otherworldly, mystical atmosphere.  
 
 ![Complex Scene 2](images/complex_scene_2.png)  
 
