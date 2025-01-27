@@ -96,7 +96,7 @@ Magical scene with grand, ornate columns resembling those from Aladdin's enchant
 
 1. Clone this repository:  
    ```bash
-   git clone git@github.com:git@github.com:AnnLvu/42_miniRT.git
+   git clone git@github.com:AnnLvu/42_miniRT.git
    cd miniRT
    ```
 
